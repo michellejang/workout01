@@ -1,6 +1,5 @@
-R Notebook
+Data Dictionary
 ================
-Michelle Jang
 
 <table>
 <colgroup>
