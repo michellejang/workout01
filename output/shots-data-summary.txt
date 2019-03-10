@@ -1,0 +1,16 @@
+  team_name          game_date            season             period         
+ Length:3115        Length:3115        Length:3115        Length:3115       
+ Class :character   Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+ minutes_remaining  seconds_remaining  shot_made_flag     action_type       
+ Length:3115        Length:3115        Length:3115        Length:3115       
+ Class :character   Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+  shot_type         shot_distance        opponent              x            
+ Length:3115        Length:3115        Length:3115        Length:3115       
+ Class :character   Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+      y                 name              minute         
+ Length:3115        Length:3115        Length:3115       
+ Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character  
