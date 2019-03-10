@@ -13,7 +13,7 @@ curry$name <- c("Stephen Curry")
 iguodala$name <- c("Andre Iguodala")
 green$name <- c("Draymond Green")
 durant$name <- c("Kevin Durant")
-thompson <- c("Klay Thompson")
+thompson$name <- c("Klay Thompson")
 
 library(dplyr)
 curry$shot_made_flag <- replace(curry$shot_made_flag, curry$shot_made_flag == "y", "shot_yes")
