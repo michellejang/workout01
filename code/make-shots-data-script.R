@@ -52,3 +52,10 @@ sink()
 sink(file = "output/klay-thompson-summary.txt")
 summary(thompson)
 sink()
+
+shots_data <- rbind(curry, iguodala, green, durant, thompson)
+write.csv(shots_data, "data/shots-data.csv")
+
+sink(file = "output/shots-data-summary.txt")
+summary(shots_data)
+sink()
