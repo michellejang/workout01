@@ -45,7 +45,7 @@ Data Dictionary
 <td>Minutes Remaining</td>
 <td align="center">minutes_remaining</td>
 <td align="center">Real</td>
-<td align="right">minutes_remaining</td>
+<td align="right">Amount of time (in minutes) left to be played in the given period</td>
 </tr>
 <tr class="even">
 <td>Seconds Remaining</td>
